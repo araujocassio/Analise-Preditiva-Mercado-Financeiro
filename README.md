@@ -17,12 +17,11 @@ O resultado final do projeto é um conjunto de preços teóricos dos ativos fina
 
 BackTest
 # Modelo de Volatilidade - Garch(1.1)
-![image](https://github.com/araujocassio/Modelo_Matematico/assets/98669544/cf958bca-39db-462c-9af3-e1decbf1a174)
+![image](https://github.com/araujocassio/Modelo_Matematico_Financeiro/assets/98669544/6cc0c016-71e2-4317-b861-15cf52854c11)
 # Processo estocastico - Movimento browniano geometrico (Wiener, Itô, Black-Scholes)
-![Imagem do WhatsApp de 2023-05-08 à(s) 21 29 50](https://github.com/araujocassio/Modelo_Matematico/assets/98669544/1a6f2cfd-2bfc-4c5c-9034-d8e794c326fa)
-# WINFUT - 03/05/2023
-![Imagem do WhatsApp de 2023-05-08 à(s) 21 31 03](https://github.com/araujocassio/Modelo_Matematico/assets/98669544/975604cb-2a6c-487d-b547-c73b7bdc515f)
-Deu venda no ponto 103.600
+![image](https://github.com/araujocassio/Modelo_Matematico_Financeiro/assets/98669544/a09763e8-7b9d-46f2-b11d-61175cd37d25)
+# WINFUT - 31/05/2023
+![image](https://github.com/araujocassio/Modelo_Matematico_Financeiro/assets/98669544/c2907dd2-112a-4656-818d-eea90a0e2d70)
 
 
 
